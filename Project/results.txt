@@ -1,0 +1,48 @@
+Topic: 352_title
+Precision: 0.2777777777777778
+Recall: 1.0
+
+Topic: 352_description_title
+Precision: 0.2222222222222222
+Recall: 1.0
+
+Topic: 352_narrative_title
+Precision: 0.08333333333333333
+Recall: 1.0
+
+Topic: 353_narrative_title
+Precision: 0.4782608695652174
+Recall: 1.0
+
+Topic: 353_description_title
+Precision: 0.7142857142857143
+Recall: 0.8823529411764706
+
+Topic: 354_description_title
+Precision: 0.34615384615384615
+Recall: 0.9
+
+Topic: 354_narrative_title
+Precision: 0.34615384615384615
+Recall: 0.9
+
+Topic: 359_narrative_title
+Precision: 0.07692307692307693
+Recall: 1.0
+
+Topic: 359_title
+Precision: 0.07692307692307693
+Recall: 1.0
+
+Topic: 359_description_title
+Precision: 0.07692307692307693
+Recall: 1.0
+
+Topic: 353_title
+Precision: 0.9
+Recall: 0.8571428571428571
+
+Topic: 354_title
+Precision: 0.75
+Recall: 0.8571428571428571
+
